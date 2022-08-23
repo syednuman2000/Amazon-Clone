@@ -38,6 +38,9 @@
     padding-top: 50px;
     padding-bottom: 50px;
     border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
 }
 .product-details .product-container .product-pictures img {
     border-radius:15px;
